@@ -51,7 +51,7 @@ public class TgsSatu{
                     nilai2 = input.nextInt();
                     hasil = nilai1 % nilai2; break;
 
-            default : System.out.println("Salah angka sesuai di Menu");
+            default : System.out.println("Salah angka ,masukan sesuai di Menu");
         }
 
         System.out.println("Hasil: " + hasil);
