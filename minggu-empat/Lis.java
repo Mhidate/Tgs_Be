@@ -54,7 +54,7 @@ public class Lis {
         System.out.println(namaMakanan);
         System.out.println("------------------------------");
 
-        System.out.println("Tahun pelaksanaan piala dunia minima 3 :");
+        System.out.println("Tahun pelaksanaan piala dunia minimal 3 :");
         System.out.println(thPialadunia);
         System.out.println("------------------------------");
 
@@ -70,7 +70,7 @@ public class Lis {
         System.out.println(bhsapemrog);
         System.out.println("");
         for(int r = 0; r <= 5 ; r++){bhsapemrog.remove(0);}
-        System.out.println("Sesusudah di hapus ");
+        System.out.println("Sesudah di hapus ");
         System.out.println(bhsapemrog);
         System.out.println("----------------------------------");
        
