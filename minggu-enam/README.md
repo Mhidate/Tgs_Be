@@ -1,6 +1,6 @@
 # Tugas minggu enam
 
-application.properties saya kosongkan
+# application.properties saya kosongkan
 
 
 
