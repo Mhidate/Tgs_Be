@@ -1,0 +1,7 @@
+org\acme\EmailResources.class
+org\acme\JasperReportGeneratorService.class
+org\acme\Scheduler.class
+org\acme\FruitResource.class
+org\acme\KebunResources.class
+org\acme\Kebun.class
+org\acme\KebunResourcesl.class
